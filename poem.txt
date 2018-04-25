@@ -6,7 +6,7 @@ Orange
 Blue
 Green
 Indigo
-Recycle!
+Best Tutorials over the internet for git and github!!!
 Unicorn
 Yellow
 Red
