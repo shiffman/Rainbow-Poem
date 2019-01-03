@@ -4,6 +4,10 @@ Purple
 Pink
 Orange
 Blue
+Burgundy
+Auburn
+Carmel
+Potato
 Green
 Indigo
 Recycle!
@@ -13,3 +17,5 @@ Red
 These are the colors of the rainbow.
 And the unicorn.
 Pony
+
+
