@@ -1,5 +1,5 @@
 The Rainbow and the Unicorn and the Pony
- 
+Happy to learn Git and Github from Daniel Shiffman
 Purple
 Pink
 Orange
