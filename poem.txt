@@ -10,6 +10,7 @@ Recycle!
 Unicorn
 Yellow
 Red
+Green
 These are the colors of the rainbow.
 And the unicorn.
 Pony
