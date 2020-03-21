@@ -11,5 +11,6 @@ Unicorn
 Yellow
 Red
 These are the colors of the rainbow.
+this was a fantastic tutorial about git and github.
 And the unicorn.
 Pony
