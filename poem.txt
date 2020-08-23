@@ -1,6 +1,6 @@
 The Rainbow and the Unicorn and the Pony
  
-Purple
+I Purple U
 Pink
 Orange
 Blue
@@ -10,6 +10,7 @@ Recycle!
 Unicorn
 Yellow
 Red
+
 These are the colors of the rainbow.
 And the unicorn.
 Pony
