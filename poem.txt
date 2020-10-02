@@ -2,6 +2,7 @@ The Rainbow and the Unicorn and the Pony
  
 Purple
 Pink
+violet
 Orange
 Blue
 Green
@@ -11,5 +12,10 @@ Unicorn
 Yellow
 Red
 These are the colors of the rainbow.
+this was a fantastic tutorial about git and github.
 And the unicorn.
 Pony
+roses are red 
+violets are blue
+carbon loves sigma bond
+and i
